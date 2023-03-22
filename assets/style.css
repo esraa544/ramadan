@@ -137,7 +137,6 @@ span{
 /*==================== Ramadan ====================*/
 .ramadan{
     width: 100vw;
-    height: 100vh;
     display: grid;
     overflow: hidden;
     align-items: center;
